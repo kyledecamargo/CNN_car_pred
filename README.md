@@ -1,6 +1,6 @@
 # Stanford Cars Image Classification Project
 
-# [📦 Download Stanford Cars Dataset & model.keras (Google Drive)](https://drive.google.com/drive/folders/1GW2gUQw7waEc0WgCe9ERmOMABtDIYQFU?usp=sharing)
+# [📦Stanford Cars Dataset, model.keras & presentation (Google Drive)](https://drive.google.com/drive/folders/1GW2gUQw7waEc0WgCe9ERmOMABtDIYQFU?usp=sharing)
 
 ## Overview
 
