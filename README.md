@@ -1,5 +1,7 @@
 # Stanford Cars Image Classification Project
 
+# [📦 Download Stanford Cars Dataset & model.keras (Google Drive)](https://drive.google.com/drive/folders/1GW2gUQw7waEc0WgCe9ERmOMABtDIYQFU?usp=sharing)
+
 ## Overview
 
 This project focuses on building a Convolutional Neural Network (CNN) to classify car images using the Stanford Cars dataset. The dataset includes 196 classes of cars with over 8,000 training images. Initially, the data was unorganized, so I used annotation files (`cars_train_annos.mat` and `cars_meta.mat`) to reorganize the training images into folders by class. The data was then preprocessed using TensorFlow’s image loading utilities and normalized to improve training performance. The model was trained over 10 epochs using image sizes of 180x180 and a batch size of 32.
