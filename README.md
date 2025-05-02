@@ -6,5 +6,5 @@ This project focuses on building a Convolutional Neural Network (CNN) to classif
 
 ## Modeling Approach
 
-A CNN was selected for this task because convolutional layers are highly effective at identifying visual patterns in images. The model consists of three convolutional blocks followed by dense layers, using ReLU activation functions and max-pooling for feature extraction. The final layer uses a softmax output over 196 classes. I compiled the model using Adam optimizer and Sparse Categorical Crossentropy loss. After training, the model achieved an accuracy of approximately **90%** and a loss of **0.4** on the training dataset. The trained model was saved as `car_model.keras` for future predictions.
+A CNN was selected for this task because convolutional layers are highly effective at identifying visual patterns in images. The model consists of three convolutional blocks followed by dense layers, using ReLU activation functions and max-pooling for feature extraction. The final layer uses a softmax output over 196 classes. I compiled the model using Adam optimizer and Sparse Categorical Crossentropy loss. After training, the model achieved an accuracy of approximately **91%** and a loss of **0.34** on the training dataset. The trained model was saved as `car_model.keras` for future predictions.
 
